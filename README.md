@@ -1,5 +1,2 @@
 # hello-world
-
-Hello,
-
-I'm William.
+Just another repository.
